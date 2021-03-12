@@ -1,0 +1,89 @@
+body{
+    background: url('W.jpg');
+    background-size: cover;
+	}
+ul {
+	list-style-type: none;
+	overflow: hidden;
+	background-color: #196F3D;
+	}
+	li {
+		float: left;
+        font-family: "Copperplate gothic bold";
+	   }
+	li a{
+		display: block;
+		color: white;
+		padding: 20px 20px;
+		text-align: center;
+        text-decoration: none;
+        display: inline-block;
+	   }
+	li a:hover {
+		background-color: #F7DC6F;
+	   }
+.header{
+    text-align: center
+	}
+.head{
+    font-family: "Copperplate gothic bold";
+	background: rgba(255,255,255,0.8);
+	text-align: center;
+	margin-top: 20px;
+	}
+#sh{
+	text-align: left;
+	background: rgba(255,255,255,0.8);
+	font-family: "Copperplate gothic bold";
+    margin-left: 90px;
+	margin-right: 90px;
+    padding-right: 30px;
+    padding-left: 80px;
+	}
+.p{
+	font-family: "Times new roman";
+	font-size: 18px;
+	text-align: left;
+	padding-top: 30px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+	padding-left: 80px;
+	background: rgba(255,255,255,0.8);
+	margin-top: 20px;
+	margin-left: 90px;
+	margin-right: 90px;
+	}
+iframe{
+    padding-left: 200px;
+    }
+#footer table{
+    margin-top: 20px;    
+    background: rgba(255,255,255,0.5);    
+    }
+table {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	background: rgba(255,255,255,0.8);
+	font-family: "Copperplate gothic bold";
+    text-align: center;
+    padding: 30px 30px;
+	}
+    table img{
+        box-shadow: 10px 10px 5px #888888;
+        }
+     table pre {
+        font-family: "Copperplate gothic bold";
+        }
+#g {
+    text-align: center;
+    }
+    #g img{
+        box-shadow: 10px 10px 5px #888888;
+        }
+#s {
+    text-align: center;
+    font-family: "Copperplate gothic bold";
+    background: rgba(255,255,255,0.8);
+    margin-top: 20px;
+    padding-top: 0px;
+    }
